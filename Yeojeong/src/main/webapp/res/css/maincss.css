@@ -1,0 +1,24 @@
+#categoryStyle {
+	padding-left: 30px;
+	padding-top: 8px;
+}
+
+#navbarResponsive {
+	font-size: 12px;
+	padding-top: 8px;
+}
+
+#serchText {
+	margin: 0 auto;
+	width: 40%
+}
+
+#goPost {
+	margin: 0 auto;
+	width: 40%
+}
+
+#joinForm {
+	margin: 0 auto;
+/* 	width: 70% */
+}
